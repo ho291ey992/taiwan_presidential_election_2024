@@ -13,6 +13,3 @@
 將 `data/` 資料夾中的「總統-A05-4-候選人得票數一覽表-各投開票所」22 個試算表檔案放到專案資料夾的` data/` 資料夾中
 啟動環境並執行 `python create_taiwan_presidential_election_2024_db.py` 就能在 data/ 資料夾中建立 `taiwan_presidential_election_2024.db`
 啟動環境並執行 `python app.py` 並前往 `http://127.0.0.1:7860` 瀏覽成品。
-
-## 成品
-<iframe src="https://huggingface.co/spaces/ho291ey992/taiwan_presidential_election_2024" width="1000" height="900"></iframe> <br>
