@@ -6,7 +6,7 @@
 
 1. 人口結構會變動、選舉有不同類型，將一個特定村鄰里訂為長年不變的章魚里是明顯不合理的。
 2. 「得票率跟最終結果非常相近」的定義非常模糊。
-3. 
+   
 我們使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `numpy` 進行概念驗證並以 `gradio` 做出成品。可以點選 Hugging Face 的連接 <https://huggingface.co/spaces/ho291ey992/taiwan_presidential_election_2024> 參考成品。
 
 ---
@@ -23,3 +23,4 @@
 - 啟動環境並執行 `python app.py` 並前往 `http://127.0.0.1:7860` 瀏覽成品。
 
 ---
+
